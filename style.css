@@ -21,7 +21,7 @@ h1 {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    gap: 20px; /* Add some space between buttons */
+    gap: 20px;
     padding: 20px;
 }
 
