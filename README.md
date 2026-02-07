@@ -1,4 +1,4 @@
-📌 GAMEBOT
+### 📌 GAMEBOT
 
 A simple practice project — a web-based game interface built with HTML and CSS.
 
